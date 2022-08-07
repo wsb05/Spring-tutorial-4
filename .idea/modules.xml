@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo/custom-error/custom-error.iml" filepath="$PROJECT_DIR$/demo/custom-error/custom-error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/click/social-click.iml" filepath="$PROJECT_DIR$/demo/click/social-click.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/two-providers/social-github.iml" filepath="$PROJECT_DIR$/demo/two-providers/social-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/logout/social-logout.iml" filepath="$PROJECT_DIR$/demo/logout/social-logout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/simple/social-simple.iml" filepath="$PROJECT_DIR$/demo/simple/social-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/tut-spring-boot-oauth.iml" filepath="$PROJECT_DIR$/demo/tut-spring-boot-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/해달.iml" filepath="$PROJECT_DIR$/.idea/해달.iml" />
+    </modules>
+  </component>
+</project>

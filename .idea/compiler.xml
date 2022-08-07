@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="social-click" />
+        <module name="social-github" />
+        <module name="social-simple" />
+        <module name="social-logout" />
+        <module name="custom-error" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="custom-error" target="1.8" />
+      <module name="social-click" target="1.8" />
+      <module name="social-github" target="1.8" />
+      <module name="social-logout" target="1.8" />
+      <module name="social-simple" target="1.8" />
+      <module name="tut-spring-boot-oauth" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="custom-error" options="-parameters" />
+      <module name="social-click" options="-parameters" />
+      <module name="social-github" options="-parameters" />
+      <module name="social-logout" options="-parameters" />
+      <module name="social-simple" options="-parameters" />
+    </option>
+  </component>
+</project>
